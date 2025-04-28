@@ -1,0 +1,1 @@
+[{"code":"#include<stdio.h>\r\n#include<string.h>\r\nint main(){\r\n    char s1[30];\r\n    scanf(\"%d\",s1);\r\n    int count = strlen(s1);\r\n    printf(\"%d\",count);\r\n    return 0;\r\n}","language":"c","time":"2025-04-28T05:40:20.088Z","isCorrect":false}]
