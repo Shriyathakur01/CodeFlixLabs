@@ -1,0 +1,1 @@
+[{"code":"#include<stdio.h>\r\nint main(){\r\n    int i,j,k;\r\n    scanf(\"%d %d %d\",&j,&j,&k);\r\n    if(i>j&&i>k)\r\n    printf(\"%d\",i);\r\n    else if(j>i&&j>k)\r\n    printf(\"%d\",j);\r\n    else \r\n    printf(\"%d\",k);\r\n    return 0;\r\n}","language":"c","time":"2025-05-29T08:49:56.419Z","isCorrect":false}]
