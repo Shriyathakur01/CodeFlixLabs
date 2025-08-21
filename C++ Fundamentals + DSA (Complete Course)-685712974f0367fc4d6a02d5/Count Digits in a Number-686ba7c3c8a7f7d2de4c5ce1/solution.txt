@@ -1,0 +1,1 @@
+[{"code":"#include<iostream>\r\nusing namespace std;\r\nint main(){\r\n    int n,count=0;\r\n    cin>>n;\r\n    while(n!=0){\r\n        int digit=n%10;\r\n        count++;\r\n        n=n/10;\r\n    }\r\n    cout<<count;\r\n}","language":"cpp","time":"2025-08-21T18:52:13.084Z","isCorrect":false}]
