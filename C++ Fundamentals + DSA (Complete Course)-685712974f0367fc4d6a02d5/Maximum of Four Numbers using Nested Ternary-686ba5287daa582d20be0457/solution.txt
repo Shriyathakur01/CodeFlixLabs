@@ -1,0 +1,1 @@
+[{"code":"#include<iostream>\r\nusing namespace std;\r\nint main(){\r\n    int a , b , c , d;\r\n    cin>>a>>b>>c>>d;\r\n    if(a>b&&a>c&&a>d) cout<<a;\r\n    else if(b>>a&&b>c&&b>c) cout<<b;\r\n    else if(c>a&&c>b&&c>d) cout<<c;\r\n    else cout<<d;\r\n    return 0;\r\n}","language":"cpp","time":"2025-08-21T17:22:38.593Z","isCorrect":false}]
