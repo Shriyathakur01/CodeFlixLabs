@@ -1,0 +1,1 @@
+[{"code":"#include<iostream>\r\n#include<cmath>\r\nusing namespace std;\r\nint main(){\r\n    int x,n;\r\n    cin>>x>>n;\r\n    int result=pow(x,n);\r\n    cout<<result;\r\n    return 0;\r\n}","language":"cpp","time":"2025-08-22T13:54:42.121Z","isCorrect":true}]
