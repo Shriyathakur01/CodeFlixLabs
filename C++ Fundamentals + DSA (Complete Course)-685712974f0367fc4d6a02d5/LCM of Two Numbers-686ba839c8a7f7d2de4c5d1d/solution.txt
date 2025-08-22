@@ -1,0 +1,1 @@
+[{"code":"#include<iostream>\r\nusing namespace std;\r\nint gcd(int a,int b){\r\n    if(b==0) return a;\r\n    return gcd(b,a%b);\r\n}\r\nint main(){\r\n    int x,y;\r\n    cin>>x>>y;\r\n    int result =(x*y)/gcd(x,y);\r\n    return 0;\r\n}","language":"cpp","time":"2025-08-22T13:59:06.537Z","isCorrect":false}]
