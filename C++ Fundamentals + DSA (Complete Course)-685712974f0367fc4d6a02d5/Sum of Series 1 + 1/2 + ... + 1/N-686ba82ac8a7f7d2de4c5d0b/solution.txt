@@ -1,0 +1,1 @@
+[{"code":"#include<iomanip>\r\n#include<iostream>\r\nusing namespace std;\r\nint main(){\r\n    int n;\r\n    cin>>n;\r\n    double sum=0.0;\r\n    for(int i=1;i<=n;i++){\r\n        sum+=1.0/i;\r\n    }\r\n    cout<<fixed<<setprecision(2)<<sum;\r\n    return 0;\r\n\r\n}","language":"cpp","time":"2025-08-22T13:17:18.347Z","isCorrect":true}]
