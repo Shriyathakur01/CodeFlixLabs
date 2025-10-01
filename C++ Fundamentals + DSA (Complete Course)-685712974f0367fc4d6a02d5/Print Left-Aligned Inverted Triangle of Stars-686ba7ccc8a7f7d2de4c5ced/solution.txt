@@ -1,0 +1,1 @@
+[{"code":"#include<iostream>\r\nusing namespace std;\r\nint main(){\r\n    int n;\r\n    cin>>n;\r\n    for(int i=n;i>0;i--){\r\n        for(int j=i;j>0;j--){\r\n            cout<<\"*\";\r\n        }\r\n        cout<<endl;\r\n    }\r\n    return 0;\r\n}","language":"cpp","time":"2025-10-01T17:56:48.485Z","isCorrect":true}]
